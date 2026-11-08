@@ -1,0 +1,23 @@
+name: Návrh na vylepšení
+description: Nová úloha, lepší vysvětlení, chybějící téma
+title: "[Návrh] "
+labels: ["enhancement"]
+body:
+  - type: input
+    id: lekce
+    attributes:
+      label: Lekce
+      description: Které lekce se návrh týká (nebo nech prázdné, pokud celého kurzu).
+      placeholder: např. lekce04-cyklus-while
+  - type: textarea
+    id: navrh
+    attributes:
+      label: Co navrhuješ
+      description: Co by v materiálech mělo být jinak nebo navíc.
+    validations:
+      required: true
+  - type: textarea
+    id: proc
+    attributes:
+      label: Proč
+      description: Co tě k tomu vedlo, třeba na čem ses na lekci zasekla.

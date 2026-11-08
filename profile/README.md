@@ -5,6 +5,8 @@
 
 Jsme pražská pobočka [PyLadies](https://pyladies.cz/praha/). Pořádáme **začátečnické kurzy programování v Pythonu pro ženy**, vedou je dobrovolní kouči a koučky z praxe. Nepotřebujete žádné předchozí zkušenosti s programováním, jen chuť se učit.
 
+![Tým koučů a účastnice kurzu před logem PyLadies na závěrečném workshopu v Barclays, červen 2026](https://raw.githubusercontent.com/pyladiesprague/.github/main/profile/tym-workshop-2026.jpg)
+
 ## Jak kurz probíhá
 
 - **13 lekcí**, každý čtvrtek večer, plus dva sobotní workshopy (opakování s projektem v půlce kurzu a závěrečný projekt na konci).
@@ -26,3 +28,7 @@ Jsme pražská pobočka [PyLadies](https://pyladies.cz/praha/). Pořádáme **za
 [LinkedIn](https://www.linkedin.com/company/pyladies-prague/) · [Instagram](https://www.instagram.com/pyladiesprague/) · [Facebook](https://www.facebook.com/profile.php?id=61576503929491)
 
 Přihlášky na další běh oznamujeme na sítích a na [pyladies.cz/praha](https://pyladies.cz/praha/).
+
+## Chcete se zapojit?
+
+Hledáme kouče a koučky na lekce i pomoc s materiály. Jak na to, najdete na stránce [Přidej se k nám](https://pyladies-public-pages.pyladies-d3a.workers.dev/o-nas/pridej-se/). Chyby a návrhy k materiálům hlaste podle [návodu pro přispěvatele](https://github.com/pyladiesprague/.github/blob/main/CONTRIBUTING.md).

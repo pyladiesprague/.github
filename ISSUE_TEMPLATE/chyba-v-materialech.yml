@@ -1,0 +1,33 @@
+name: Chyba v materiálech
+description: Překlep, nefunkční ukázka, špatné zadání nebo řešení
+title: "[Chyba] "
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Díky, že pomáháš materiály vylepšit! Pokud potřebuješ pomoct s vlastním řešením úkolu, napiš raději na Discord.
+  - type: input
+    id: lekce
+    attributes:
+      label: Lekce
+      placeholder: např. lekce06-retezce
+    validations:
+      required: true
+  - type: input
+    id: soubor
+    attributes:
+      label: Soubor nebo stránka na webu
+      placeholder: např. 02_metody_retezcu/cviceni/03_velka_pismena.py
+  - type: textarea
+    id: popis
+    attributes:
+      label: Co je špatně
+      description: Popiš chybu. U chyby v kódu vlož celé znění chybové hlášky.
+    validations:
+      required: true
+  - type: textarea
+    id: oprava
+    attributes:
+      label: Jak by to mělo být
+      description: Nepovinné, pokud víš, jak to opravit.

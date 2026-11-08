@@ -1,0 +1,11 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Potřebuju pomoct s úkolem nebo cvičením
+    url: https://pyladies-public-pages.pyladies-d3a.workers.dev/organizace/
+    about: Dotazy k programování a kontrolu úkolů řešíme na Discordu v prostoru pro pomoc u tvého běhu, ne v issues.
+  - name: Otázka k výkladu lekce
+    url: https://github.com/pyladiesprague/materialy/discussions
+    about: Diskuse pod lekcemi na webu kurzu.
+  - name: Přihláška, termíny a zapojení do týmu
+    url: https://pyladies-public-pages.pyladies-d3a.workers.dev/kontakt/
+    about: Napiš nám e-mail na praha@pyladies.cz.
