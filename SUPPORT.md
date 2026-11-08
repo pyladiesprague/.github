@@ -15,7 +15,7 @@ Pozvánku na Discord dostaneš v e-mailu k první hodině. Pokud nedorazila nebo
 
 ## Otázky k výkladu
 
-Pod každou lekcí na [webu kurzu](https://pyladies-public-pages.pyladies-d3a.workers.dev/materialy/) se dá diskutovat. Komentáře se ukládají do [Discussions repa materialy](https://github.com/pyladiesprague/materialy/discussions).
+Když něčemu ve výkladu nerozumíš, zeptej se na [Discordu kurzu](https://discord.com/channels/1519827720358330491/1519827721088143492). Odpoví ti kouči i ostatní účastnice.
 
 ## Chyby v materiálech
 
