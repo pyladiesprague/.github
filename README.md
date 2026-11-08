@@ -9,7 +9,7 @@ Tohle repo nastavuje profil organizace [pyladiesprague](https://github.com/pylad
 | [`CONTRIBUTING.md`](CONTRIBUTING.md) | jak nahlásit chybu nebo poslat opravu do materiálů |
 | [`SUPPORT.md`](SUPPORT.md) | kam se obrátit pro pomoc s kurzem a úkoly |
 | [`CODE_OF_CONDUCT.md`](CODE_OF_CONDUCT.md) | pravidla chování na kurzu, na Discordu i na GitHubu |
-| [`ISSUE_TEMPLATE/`](ISSUE_TEMPLATE/) | formuláře pro nová issues a rozcestník pro dotazy |
+| [`.github/ISSUE_TEMPLATE/`](.github/ISSUE_TEMPLATE/) | formuláře pro nová issues a rozcestník pro dotazy |
 
 ## Jak výchozí soubory fungují
 
